@@ -6,3 +6,6 @@ flour
 sugar
 cinnamon
 
+swordfish
+almonds
+raisins
