@@ -3,3 +3,6 @@ walnuts
 water
 honey
 flour
+sugar
+cinnamon
+
