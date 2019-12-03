@@ -6,4 +6,3 @@ flour
 sugar
 cinnamon
 
-frog
